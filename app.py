@@ -9,7 +9,6 @@ even_list = return_even(original_list)
 
 odd_list = return_odd(original_list)
 
-st.Title("YOLO")
 st.write("It worked")
 st.button("click me")
 st.write(even_list)
