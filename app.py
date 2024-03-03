@@ -8,3 +8,4 @@ even_list = return_even(original_list)
 
 st.write("It worked")
 st.button("click me")
+st.write(even_list)
